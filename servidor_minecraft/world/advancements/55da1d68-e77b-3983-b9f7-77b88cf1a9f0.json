@@ -11444,6 +11444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-05-05 22:30:53 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/mangrove_post": {
     "criteria": {
       "has_item": "2025-05-05 22:23:04 +0000"
@@ -11507,6 +11513,12 @@
   "valhelsia_structures:recipes/decorations/yellow_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_color": "2025-05-05 22:11:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-05 22:30:53 +0000"
     },
     "done": true
   },

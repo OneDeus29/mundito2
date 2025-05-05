@@ -5834,6 +5834,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-05-05 22:30:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-05-05 22:30:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_warped_chair": {
+    "criteria": {
+      "has_hay_block": "2025-05-05 22:41:03 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/mangrove_post": {
+    "criteria": {
+      "has_item": "2025-05-05 22:54:13 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/acacia_banister": {
+    "criteria": {
+      "has_item": "2025-05-05 22:46:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-05-05 22:27:59 +0000"
@@ -5849,6 +5879,12 @@
   "valhelsia_furniture:recipes/decorations/oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-05-05 22:27:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-05-05 22:46:15 +0000"
     },
     "done": true
   },
@@ -5882,6 +5918,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-05-05 22:46:15 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/pink_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-05-05 22:27:59 +0000"
@@ -5897,6 +5939,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-05-05 22:16:33 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-05-05 22:46:15 +0000"
     },
     "done": true
   },
@@ -5918,6 +5966,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-05 22:57:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-05-05 22:46:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-05-05 22:27:59 +0000"
@@ -5927,6 +5987,12 @@
   "valhelsia_furniture:recipes/decorations/brown_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-05-05 22:27:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-05-05 22:46:15 +0000"
     },
     "done": true
   },
@@ -5942,6 +6008,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-05-05 22:46:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-05-05 22:27:59 +0000"
@@ -5954,15 +6026,39 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/hay_spruce_chair": {
+    "criteria": {
+      "has_hay_block": "2025-05-05 22:41:03 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-05-05 22:46:15 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-05-05 22:27:59 +0000"
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-05-05 22:46:15 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-05-05 22:27:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-05-05 22:46:15 +0000"
     },
     "done": true
   },
@@ -5978,6 +6074,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-05 22:57:51 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/green_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-05-05 22:27:59 +0000"
@@ -5987,6 +6089,12 @@
   "valhelsia_furniture:recipes/decorations/lime_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-05-05 22:27:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_mangrove_chair": {
+    "criteria": {
+      "has_hay_block": "2025-05-05 22:41:03 +0000"
     },
     "done": true
   },
@@ -6032,6 +6140,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-05-05 22:46:15 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-05-05 22:46:15 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/cyan_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-05-05 22:27:59 +0000"
@@ -6056,6 +6176,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mangrove_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-05 22:30:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-05-05 22:16:33 +0000"
@@ -6071,6 +6197,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-05-05 22:16:33 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-05-05 22:46:15 +0000"
     },
     "done": true
   },
@@ -6095,6 +6227,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-05 22:16:33 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/stripped_oak_post": {
+    "criteria": {
+      "has_item": "2025-05-05 22:57:51 +0000"
     },
     "done": true
   },
@@ -6128,6 +6266,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-05-05 22:46:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-05 22:16:33 +0000"
@@ -6158,15 +6302,39 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/hay_jungle_chair": {
+    "criteria": {
+      "has_hay_block": "2025-05-05 22:41:03 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-05-05 22:46:15 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-05-05 22:27:59 +0000"
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-05-05 22:46:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-05 22:27:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_crimson_chair": {
+    "criteria": {
+      "has_hay_block": "2025-05-05 22:41:03 +0000"
     },
     "done": true
   },
@@ -6182,9 +6350,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-05-05 22:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-05-05 22:41:03 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/magenta_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-05-05 22:27:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_acacia_stool": {
+    "criteria": {
+      "has_acacia_slab": "2025-05-05 22:46:15 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/stripped_mangrove_post": {
+    "criteria": {
+      "has_item": "2025-05-05 22:54:13 +0000"
     },
     "done": true
   },
