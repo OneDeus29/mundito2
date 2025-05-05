@@ -316,3 +316,37 @@
 [05May2025 20:36:05.659] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [05May2025 20:36:23.156] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Itz_Jusebg_FpF[/127.26.125.93:35043] logged in with entity id 8951 at (2567.828416784336, -55.0, -7786.718558316433)
 [05May2025 20:36:23.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF joined the game
+[05May2025 20:43:19.967] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: buenxs14[/127.164.158.248:46567] logged in with entity id 10714 at (1093.0522627501887, 118.16610926093821, -9399.787795280821)
+[05May2025 20:43:19.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 joined the game
+[05May2025 20:44:55.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> q me ibas a decir antes q te diga q si tus datos soportan causaaaam
+[05May2025 20:45:10.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> XDD
+[05May2025 20:46:20.310] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 lost connection: Timed out
+[05May2025 20:46:20.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 left the game
+[05May2025 20:46:50.611] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: buenxs14[/127.164.158.248:41893] logged in with entity id 13002 at (621.0233658536446, 68.24918707874468, -9151.257406271909)
+[05May2025 20:46:50.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 joined the game
+[05May2025 20:49:55.352] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2558, y=-49, z=-7792} BlockPos{x=2559, y=-50, z=-7792}
+[05May2025 20:49:55.402] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2558, y=-48, z=-7792} BlockPos{x=2559, y=-50, z=-7792}
+[05May2025 20:49:55.450] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2558, y=-48, z=-7792} BlockPos{x=2559, y=-50, z=-7792}
+[05May2025 20:50:03.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2557, y=-47, z=-7791} BlockPos{x=2556, y=-48, z=-7792}
+[05May2025 20:50:17.006] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2564, y=-44, z=-7791} BlockPos{x=2562, y=-44, z=-7790}
+[05May2025 20:50:19.658] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2560, y=-45, z=-7790} BlockPos{x=2563, y=-47, z=-7789}
+[05May2025 20:50:21.107] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2558, y=-46, z=-7790} BlockPos{x=2558, y=-47, z=-7789}
+[05May2025 20:52:24.487] [Worker-Main-62/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellarity:stronghold/storage/piles
+[05May2025 20:52:24.507] [Worker-Main-62/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellarity:stronghold/storage/piles
+[05May2025 20:52:24.577] [Worker-Main-62/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[05May2025 20:52:24.666] [Worker-Main-62/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/illagers
+[05May2025 20:52:24.691] [Worker-Main-62/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[05May2025 20:52:24.779] [Worker-Main-62/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[05May2025 20:52:24.825] [Worker-Main-62/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[05May2025 20:52:24.877] [Worker-Main-62/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[05May2025 20:52:24.891] [Worker-Main-62/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[05May2025 20:52:24.977] [Worker-Main-62/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[05May2025 20:52:25.032] [Worker-Main-62/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[05May2025 20:52:25.420] [Worker-Main-62/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[05May2025 20:52:25.522] [Worker-Main-62/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[05May2025 20:53:25.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> XD
+[05May2025 20:55:30.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [Sea? Not a Problem]
+[05May2025 20:55:32.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> afk XD
+[05May2025 20:55:33.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> asdasdasd
+[05May2025 20:56:25.654] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 lost connection: Disconnected
+[05May2025 20:56:25.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 left the game

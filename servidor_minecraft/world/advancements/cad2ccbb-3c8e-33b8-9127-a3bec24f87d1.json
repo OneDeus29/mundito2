@@ -10311,94 +10311,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-05 04:15:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-05-05 04:15:51 +0000",
-      "log_spam_fixer": "2025-05-05 04:15:47 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-05 04:15:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-05 04:15:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-05 04:15:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-05 04:15:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-05 04:15:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-05 04:15:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-05 04:15:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-05 04:15:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-05 04:15:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-05 04:15:47 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/armor_green_leggings": {
-    "criteria": {
-      "has_item": "2025-05-05 02:55:10 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_sapphire_boots": {
     "criteria": {
       "has_item": "2025-05-05 02:47:38 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_green_helmet": {
-    "criteria": {
-      "has_item": "2025-05-05 02:55:10 +0000"
     },
     "done": true
   },
@@ -10414,24 +10329,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
-    "criteria": {
-      "has_dark_prismarine": "2025-05-05 03:10:34 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:club": {
-    "criteria": {
-      "has_club": "2025-05-05 02:50:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
-    "criteria": {
-      "has_dark_prismarine": "2025-05-05 03:10:34 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
     "criteria": {
       "has_dragonscales_sapphire": "2025-05-05 02:47:38 +0000"
@@ -10444,27 +10341,33 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_green_chestplate": {
-    "criteria": {
-      "has_item": "2025-05-05 02:55:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
-    "criteria": {
-      "has_dark_prismarine": "2025-05-05 03:10:34 +0000"
-    },
-    "done": true
-  },
   "dungeons_arise:find_mushroom_house": {
     "criteria": {
       "location0": "2025-05-05 02:48:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+  "spartanweaponry:club": {
     "criteria": {
-      "has_dark_prismarine": "2025-05-05 03:10:34 +0000"
+      "has_club": "2025-05-05 02:50:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-05-05 02:55:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-05-05 02:55:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-05 02:55:10 +0000"
     },
     "done": true
   },
@@ -10477,6 +10380,150 @@
   "iceandfire:recipes/combat/armor_green_boots": {
     "criteria": {
       "has_item": "2025-05-05 02:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-05 03:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-05 03:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-05 03:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-05 03:10:34 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-05 20:56:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-05 20:56:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-05 20:56:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-05 20:56:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-05 20:56:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-05 20:56:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-05 20:56:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-05 20:56:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-05 20:56:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-05 20:56:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-05 20:56:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-05 20:56:17 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/tide_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-05 20:55:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-05-05 20:55:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-05 20:55:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2025-05-05 20:55:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-05-05 20:55:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-05-05 20:55:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-05-05 20:55:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-05-05 20:55:33 +0000"
     },
     "done": true
   },
