@@ -367,3 +367,14 @@
 [05May2025 22:04:44.205] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=617, y=68, z=-4009} BlockPos{x=617, y=67, z=-4009}
 [05May2025 22:08:29.401] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/40045, l='ServerLevel[world]', x=2946.05, y=68.06, z=-5562.56] died, message: 'Toolsmith was slain by Zombie'
 [05May2025 22:12:07.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy has made the advancement [Rotten to the Core]
+[05May2025 23:04:15.005] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=809, y=62, z=-4800} BlockPos{x=809, y=61, z=-4799}
+[05May2025 23:04:15.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=809, y=62, z=-4799} BlockPos{x=809, y=61, z=-4799}
+[05May2025 23:05:06.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=804, y=59, z=-4803} BlockPos{x=803, y=58, z=-4802}
+[05May2025 23:05:06.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=804, y=59, z=-4803} BlockPos{x=803, y=58, z=-4802}
+[05May2025 23:05:06.707] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=804, y=59, z=-4803} BlockPos{x=803, y=58, z=-4802}
+[05May2025 23:05:06.759] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=804, y=59, z=-4803} BlockPos{x=803, y=58, z=-4802}
+[05May2025 23:05:06.807] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=804, y=59, z=-4803} BlockPos{x=803, y=58, z=-4802}
+[05May2025 23:05:06.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=804, y=59, z=-4803} BlockPos{x=803, y=58, z=-4802}
+[05May2025 23:05:06.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=804, y=59, z=-4803} BlockPos{x=803, y=58, z=-4802}
+[05May2025 23:05:06.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=804, y=59, z=-4803} BlockPos{x=803, y=58, z=-4802}
+[05May2025 23:21:49.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy has completed the challenge [It Spreads]

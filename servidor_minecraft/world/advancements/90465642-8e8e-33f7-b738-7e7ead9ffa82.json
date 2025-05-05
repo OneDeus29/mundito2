@@ -5972,6 +5972,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-05-05 23:18:33 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_acacia_stool": {
     "criteria": {
       "has_acacia_slab": "2025-05-05 22:46:15 +0000"
@@ -6101,6 +6107,12 @@
   "valhelsia_furniture:recipes/decorations/light_blue_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-05-05 22:27:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-05-05 23:18:33 +0000"
     },
     "done": true
   },
@@ -6239,6 +6251,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-05 22:16:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-05-05 23:18:33 +0000"
     },
     "done": true
   },
