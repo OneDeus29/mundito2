@@ -358,3 +358,11 @@
 [05May2025 21:59:27.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> po po polla
 [05May2025 21:59:54.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> taba q le decia a mi hermanita causaaam
 [05May2025 21:59:55.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> xd
+[05May2025 22:00:06.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> XDD
+[05May2025 22:02:27.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Eye of The Storm]
+[05May2025 22:04:00.898] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=611, y=69, z=-4018} BlockPos{x=612, y=68, z=-4018}
+[05May2025 22:04:44.052] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=617, y=68, z=-4009} BlockPos{x=617, y=67, z=-4009}
+[05May2025 22:04:44.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=617, y=68, z=-4009} BlockPos{x=617, y=67, z=-4009}
+[05May2025 22:04:44.155] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=617, y=68, z=-4009} BlockPos{x=617, y=67, z=-4009}
+[05May2025 22:04:44.205] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=617, y=68, z=-4009} BlockPos{x=617, y=67, z=-4009}
+[05May2025 22:08:29.401] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/40045, l='ServerLevel[world]', x=2946.05, y=68.06, z=-5562.56] died, message: 'Toolsmith was slain by Zombie'
