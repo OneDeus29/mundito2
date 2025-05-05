@@ -352,3 +352,4 @@
 [05May2025 20:56:25.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 left the game
 [05May2025 20:59:22.804] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Teffqyy[/127.163.185.100:46777] logged in with entity id 20584 at (2607.6968220726108, -58.0, -7785.841159769511)
 [05May2025 20:59:22.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy joined the game
+[05May2025 21:19:44.529] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/9017, l='ServerLevel[world]', x=2548.99, y=65.50, z=-7787.48] died, message: 'Weaponsmith was burnt to a crisp whilst fighting Zombie'
