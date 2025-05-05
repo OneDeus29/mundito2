@@ -436,6 +436,7 @@
       "biomeswevegone:mojave_desert": "2025-04-30 21:47:18 +0000",
       "biomeswevegone:white_mangrove_marshes": "2025-05-04 19:06:42 +0000",
       "biomeswevegone:red_rock_valley": "2025-05-03 21:23:08 +0000",
+      "biomeswevegone:coconino_meadow": "2025-05-05 23:21:43 +0000",
       "biomeswevegone:ironwood_gour": "2025-04-28 22:13:55 +0000",
       "biomeswevegone:amaranth_grassland": "2025-05-03 20:53:34 +0000",
       "biomeswevegone:allium_shrubland": "2025-04-30 21:00:08 +0000",
@@ -5882,6 +5883,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-05-05 23:24:17 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_upholstered_acacia_stool": {
     "criteria": {
       "has_acacia_slab": "2025-05-05 22:46:15 +0000"
@@ -6065,6 +6072,12 @@
   "valhelsia_furniture:recipes/decorations/black_upholstered_acacia_stool": {
     "criteria": {
       "has_acacia_slab": "2025-05-05 22:46:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-05 23:24:17 +0000"
     },
     "done": true
   },
@@ -6299,6 +6312,18 @@
   "valhelsia_furniture:recipes/decorations/red_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-05-05 22:27:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-05 23:24:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-05-05 23:21:49 +0000"
     },
     "done": true
   },
