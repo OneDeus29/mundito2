@@ -366,3 +366,4 @@
 [05May2025 22:04:44.155] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=617, y=68, z=-4009} BlockPos{x=617, y=67, z=-4009}
 [05May2025 22:04:44.205] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=617, y=68, z=-4009} BlockPos{x=617, y=67, z=-4009}
 [05May2025 22:08:29.401] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/40045, l='ServerLevel[world]', x=2946.05, y=68.06, z=-5562.56] died, message: 'Toolsmith was slain by Zombie'
+[05May2025 22:12:07.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy has made the advancement [Rotten to the Core]
