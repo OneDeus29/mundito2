@@ -315,3 +315,10 @@
 [08May2025 00:23:59.752] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Itz_Jusebg_FpF[/127.26.125.93:37607] logged in with entity id 101 at (2584.8075597338593, -53.0, -7786.076544201576)
 [08May2025 00:23:59.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF joined the game
 [08May2025 00:27:13.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2995ms or 59 ticks behind
+[08May2025 00:32:40.960] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: buenxs14[/127.3.199.38:52429] logged in with entity id 2315 at (583.5676984622237, 65.0, -7827.711693759542)
+[08May2025 00:32:40.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 joined the game
+[08May2025 00:51:57.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 lost connection: Disconnected
+[08May2025 00:51:57.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 left the game
+[08May2025 00:51:57.965] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08May2025 00:52:02.714] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF lost connection: Timed out
+[08May2025 00:52:02.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF left the game
