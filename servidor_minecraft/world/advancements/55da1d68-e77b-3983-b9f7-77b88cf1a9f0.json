@@ -11720,9 +11720,21 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/fir_bookshelf": {
+    "criteria": {
+      "has_fir_planks": "2025-05-08 23:51:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-08 22:05:28 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-08 23:51:31 +0000"
     },
     "done": true
   },
@@ -11753,6 +11765,18 @@
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2025-05-08 22:05:28 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2025-05-08 23:51:31 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_planks": "2025-05-08 23:51:31 +0000"
     },
     "done": true
   },
@@ -11792,6 +11816,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-08 23:51:31 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/blue_warped_chair": {
     "criteria": {
       "has_warped_planks": "2025-05-08 22:05:28 +0000"
@@ -11816,6 +11846,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2025-05-08 23:51:31 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_upholstered_warped_chair": {
     "criteria": {
       "has_warped_planks": "2025-05-08 22:05:28 +0000"
@@ -11828,9 +11864,39 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-05-08 23:51:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-08 22:05:28 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-08 23:51:31 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-08 23:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-05-08 23:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-05-08 23:51:49 +0000"
     },
     "done": true
   },
@@ -11843,6 +11909,12 @@
   "minecraft:recipes/building_blocks/warped_stairs": {
     "criteria": {
       "has_planks": "2025-05-08 22:05:28 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_log": "2025-05-08 23:51:30 +0000"
     },
     "done": true
   },
@@ -11876,6 +11948,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/decorations/fir_crafting_table": {
+    "criteria": {
+      "has_fir_planks": "2025-05-08 23:51:31 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/green_warped_chair": {
     "criteria": {
       "has_warped_planks": "2025-05-08 22:05:28 +0000"
@@ -11903,6 +11981,18 @@
   "valhelsia_furniture:recipes/decorations/pink_upholstered_warped_chair": {
     "criteria": {
       "has_warped_planks": "2025-05-08 22:05:28 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2025-05-08 23:51:31 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2025-05-08 23:51:31 +0000"
     },
     "done": true
   },
