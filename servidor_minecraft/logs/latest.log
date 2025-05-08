@@ -342,3 +342,23 @@
 [08May2025 03:04:02.022] [Worker-Main-125/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
 [08May2025 03:04:02.022] [Worker-Main-125/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
 [08May2025 03:05:32.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [People Are Strange]
+[08May2025 03:27:42.820] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 lost connection: Timed out
+[08May2025 03:27:42.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 left the game
+[08May2025 03:29:35.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF moved too quickly! -8.350711092817619,1.367594074663323,-5.763246371961941
+[08May2025 03:29:35.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF was kicked for floating too long!
+[08May2025 03:29:36.012] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF lost connection: Flying is not enabled on this server
+[08May2025 03:29:36.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF left the game
+[08May2025 03:29:52.521] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: buenxs14[/127.3.199.38:34945] logged in with entity id 41305 at (1100.6869700194713, 114.0625, -7808.703707364509)
+[08May2025 03:29:52.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 joined the game
+[08May2025 03:30:02.435] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Itz_Jusebg_FpF[/127.26.125.93:56705] logged in with entity id 41651 at (2577.8913514646047, -52.50449586457225, -7786.783430237569)
+[08May2025 03:30:02.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF joined the game
+[08May2025 03:30:32.529] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF lost connection: Timed out
+[08May2025 03:30:32.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF left the game
+[08May2025 03:31:16.284] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Itz_Jusebg_FpF[/127.26.125.93:36765] logged in with entity id 42082 at (2577.8913514646047, -52.50449586457225, -7786.783430237569)
+[08May2025 03:31:16.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF joined the game
+[08May2025 03:31:46.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF lost connection: Timed out
+[08May2025 03:31:46.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF left the game
+[08May2025 03:32:29.135] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Itz_Jusebg_FpF[/127.26.125.93:53251] logged in with entity id 42570 at (2577.8913514646047, -52.50449586457225, -7786.783430237569)
+[08May2025 03:32:29.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF joined the game
+[08May2025 03:32:59.233] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF lost connection: Timed out
+[08May2025 03:32:59.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF left the game
