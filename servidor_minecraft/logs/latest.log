@@ -322,3 +322,8 @@
 [08May2025 00:51:57.965] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [08May2025 00:52:02.714] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF lost connection: Timed out
 [08May2025 00:52:02.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF left the game
+[08May2025 00:53:42.482] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: buenxs14[/127.3.199.38:55851] logged in with entity id 8688 at (2585.3852264562966, -55.0, -7803.763869660688)
+[08May2025 00:53:42.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 joined the game
+[08May2025 00:54:32.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 moved too quickly! 4.068233248288834,-1.252203340253729,9.297904867451507
+[08May2025 00:54:51.493] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Itz_Jusebg_FpF[/127.26.125.93:43797] logged in with entity id 9230 at (2581.8841567050804, -49.0, -7804.004138633829)
+[08May2025 00:54:51.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF joined the game
