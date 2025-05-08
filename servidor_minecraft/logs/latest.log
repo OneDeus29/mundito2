@@ -374,3 +374,7 @@
 [08May2025 03:37:47.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> 12 mochilas
 [08May2025 03:54:18.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 lost connection: Disconnected
 [08May2025 03:54:18.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 left the game
+[08May2025 03:57:50.236] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: buenxs14[/127.3.199.38:42905] logged in with entity id 54168 at (1081.7793066469258, 66.0, -7250.300000011921)
+[08May2025 03:57:50.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 joined the game
+[08May2025 04:05:14.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 lost connection: Disconnected
+[08May2025 04:05:14.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 left the game
