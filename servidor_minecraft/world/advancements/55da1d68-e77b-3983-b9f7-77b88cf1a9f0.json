@@ -972,6 +972,7 @@
       "minecraft:pillager": "2025-04-23 03:29:31 +0000",
       "minecraft:blaze": "2025-04-26 22:29:51 +0000",
       "minecraft:skeleton": "2025-04-23 04:42:57 +0000",
+      "minecraft:ravager": "2025-05-09 02:23:19 +0000",
       "minecraft:ghast": "2025-04-28 22:43:27 +0000",
       "minecraft:hoglin": "2025-04-25 04:08:36 +0000",
       "minecraft:vindicator": "2025-04-23 03:37:02 +0000",
@@ -12467,6 +12468,31 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-09 00:49:05 +0000"
+    },
+    "done": true
+  },
+  "illageandspillage:kill_freaky": {
+    "criteria": {
+      "requirement": "2025-05-09 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "illageandspillage:kill_all_iands": {
+    "criteria": {
+      "illageandspillage:preserver": "2025-05-09 02:23:24 +0000",
+      "illageandspillage:absorber": "2025-05-09 02:27:37 +0000",
+      "illageandspillage:ragno": "2025-05-09 02:31:14 +0000",
+      "illageandspillage:engineer": "2025-05-09 02:24:00 +0000",
+      "illageandspillage:twittollager": "2025-05-09 02:25:47 +0000",
+      "illageandspillage:igniter": "2025-05-09 02:22:33 +0000",
+      "illageandspillage:crocofang": "2025-05-09 02:22:39 +0000",
+      "illageandspillage:freakager": "2025-05-09 02:29:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-05-09 02:28:32 +0000"
     },
     "done": true
   },
