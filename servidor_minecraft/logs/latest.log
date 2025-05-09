@@ -24,3 +24,5 @@
 [09May2025 00:40:36.713] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/65938, l='ServerLevel[world]', x=2367.89, y=66.88, z=-6101.56] died, message: 'Scribe was energized by Lightning Dragon'
 [09May2025 00:45:12.555] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/65918, l='ServerLevel[world]', x=2373.70, y=70.00, z=-6138.30] died, message: 'Villager was slain by Lightning Dragon'
 [09May2025 00:46:20.615] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/65859, l='ServerLevel[world]', x=2418.50, y=88.00, z=-6212.93] died, message: 'Scribe was slain by Zombie'
+[09May2025 01:03:04.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF lost connection: Disconnected
+[09May2025 01:03:04.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF left the game
