@@ -253,3 +253,9 @@
 [09May2025 03:10:58.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6, y=59, z=-940} BlockPos{x=8, y=59, z=-939}
 [09May2025 03:10:58.072] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6, y=59, z=-940} BlockPos{x=8, y=59, z=-939}
 [09May2025 03:10:58.123] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6, y=59, z=-940} BlockPos{x=8, y=59, z=-939}
+[09May2025 03:13:04.108] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/142722, l='ServerLevel[world]', x=3904.81, y=107.00, z=-7716.11] died, message: 'Villager was slain by Zombie Villager'
+[09May2025 03:13:04.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teffqyy lost connection: Disconnected
+[09May2025 03:13:04.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy left the game
+[09May2025 03:15:49.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [All Along The Watchtower]
+[09May2025 03:21:27.801] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/144052, l='ServerLevel[world]', x=3843.55, y=99.00, z=-7744.32] died, message: 'Farmer was slain by Zombie Villager'
+[09May2025 03:21:41.706] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/144314, l='ServerLevel[world]', x=3858.66, y=95.00, z=-7758.59] died, message: 'Villager was slain by Zombie Villager'

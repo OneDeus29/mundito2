@@ -79,6 +79,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-05-09 03:16:54 +0000",
       "minecraft:old_growth_pine_taiga": "2025-04-23 22:59:25 +0000",
       "minecraft:taiga": "2025-05-05 02:37:36 +0000",
       "minecraft:deep_ocean": "2025-04-23 03:34:46 +0000",
@@ -4005,12 +4006,14 @@
       "biomeswevegone:basalt_barrera": "2025-04-23 23:16:26 +0000",
       "biomeswevegone:aspen_boreal": "2025-04-23 22:20:05 +0000",
       "biomeswevegone:dacite_ridges": "2025-04-23 22:59:20 +0000",
+      "biomeswevegone:shattered_glacier": "2025-05-09 03:16:52 +0000",
       "biomeswevegone:skyrise_vale": "2025-05-02 20:58:03 +0000",
       "biomeswevegone:dead_sea": "2025-04-24 20:48:30 +0000",
       "biomeswevegone:allium_shrubland": "2025-04-23 04:09:25 +0000",
       "biomeswevegone:pumpkin_valley": "2025-05-05 02:25:22 +0000",
       "biomeswevegone:tropical_rainforest": "2025-04-24 00:16:51 +0000",
       "biomeswevegone:baobab_savanna": "2025-04-24 20:52:38 +0000",
+      "biomeswevegone:crimson_tundra": "2025-05-09 03:16:34 +0000",
       "biomeswevegone:rainbow_beach": "2025-04-23 23:18:52 +0000"
     },
     "done": false
@@ -10708,6 +10711,12 @@
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-05-09 02:44:40 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2025-05-09 03:15:49 +0000"
     },
     "done": true
   },

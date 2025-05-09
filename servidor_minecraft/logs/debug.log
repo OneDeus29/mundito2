@@ -19974,3 +19974,63 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09May2025 03:10:58.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6, y=59, z=-940} BlockPos{x=8, y=59, z=-939}
 [09May2025 03:10:58.072] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6, y=59, z=-940} BlockPos{x=8, y=59, z=-939}
 [09May2025 03:10:58.123] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6, y=59, z=-940} BlockPos{x=8, y=59, z=-939}
+[09May2025 03:13:04.108] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/142722, l='ServerLevel[world]', x=3904.81, y=107.00, z=-7716.11] died, message: 'Villager was slain by Zombie Villager'
+[09May2025 03:13:04.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teffqyy lost connection: Disconnected
+[09May2025 03:13:04.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy left the game
+[09May2025 03:15:33.688] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 03:15:33.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 03:15:49.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [All Along The Watchtower]
+[09May2025 03:18:03.780] [Worker-Main-149/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (4061 | 42 | -7845)
+[09May2025 03:18:03.781] [Worker-Main-149/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (4061 | 42 | -7845)
+[09May2025 03:18:03.789] [Worker-Main-139/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (4062 | 42 | -7863)
+[09May2025 03:18:03.790] [Worker-Main-139/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (4062 | 42 | -7863)
+[09May2025 03:18:03.790] [Worker-Main-139/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation COUNTERCLOCKWISE_90 at (4062 | 42 | -7851)
+[09May2025 03:18:03.790] [Worker-Main-139/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation COUNTERCLOCKWISE_90 at (4062 | 42 | -7851)
+[09May2025 03:18:03.790] [Worker-Main-139/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (4062 | 42 | -7854)
+[09May2025 03:18:03.790] [Worker-Main-139/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (4062 | 42 | -7854)
+[09May2025 03:18:03.790] [Worker-Main-139/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (4061 | 42 | -7845)
+[09May2025 03:18:03.790] [Worker-Main-139/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (4061 | 42 | -7845)
+[09May2025 03:18:16.562] [Worker-Main-149/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (4062 | 42 | -7863)
+[09May2025 03:18:16.562] [Worker-Main-149/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (4062 | 42 | -7863)
+[09May2025 03:18:16.562] [Worker-Main-149/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_90 at (4067 | 42 | -7851)
+[09May2025 03:18:16.562] [Worker-Main-149/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_90 at (4067 | 42 | -7851)
+[09May2025 03:18:16.562] [Worker-Main-149/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (4062 | 42 | -7854)
+[09May2025 03:18:16.563] [Worker-Main-149/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (4062 | 42 | -7854)
+[09May2025 03:18:16.563] [Worker-Main-149/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (4061 | 42 | -7845)
+[09May2025 03:18:16.563] [Worker-Main-149/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (4061 | 42 | -7845)
+[09May2025 03:18:16.563] [Worker-Main-149/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/wall with rotation CLOCKWISE_180 at (4079 | 42 | -7847)
+[09May2025 03:18:16.563] [Worker-Main-149/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/wall with rotation CLOCKWISE_180 at (4079 | 42 | -7847)
+[09May2025 03:18:16.563] [Worker-Main-149/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (4076 | 42 | -7844)
+[09May2025 03:18:16.564] [Worker-Main-149/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (4076 | 42 | -7844)
+[09May2025 03:18:16.564] [Worker-Main-149/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (4075 | 42 | -7849)
+[09May2025 03:18:16.565] [Worker-Main-149/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (4075 | 42 | -7849)
+[09May2025 03:18:16.603] [Worker-Main-176/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (4061 | 42 | -7845)
+[09May2025 03:18:16.603] [Worker-Main-176/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (4061 | 42 | -7845)
+[09May2025 03:18:16.603] [Worker-Main-176/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (4076 | 42 | -7844)
+[09May2025 03:18:16.603] [Worker-Main-176/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (4076 | 42 | -7844)
+[09May2025 03:18:16.604] [Worker-Main-176/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (4075 | 42 | -7849)
+[09May2025 03:18:16.604] [Worker-Main-176/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (4075 | 42 | -7849)
+[09May2025 03:18:27.493] [Worker-Main-189/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (4080 | 42 | -7863)
+[09May2025 03:18:27.493] [Worker-Main-189/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_90 at (4080 | 42 | -7863)
+[09May2025 03:18:27.493] [Worker-Main-189/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (4081 | 47 | -7843)
+[09May2025 03:18:27.493] [Worker-Main-189/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (4081 | 47 | -7843)
+[09May2025 03:18:27.493] [Worker-Main-189/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (4087 | 42 | -7848)
+[09May2025 03:18:27.494] [Worker-Main-189/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation NONE at (4087 | 42 | -7848)
+[09May2025 03:18:27.494] [Worker-Main-189/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (4087 | 42 | -7844)
+[09May2025 03:18:27.494] [Worker-Main-189/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (4087 | 42 | -7844)
+[09May2025 03:18:27.494] [Worker-Main-189/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (4080 | 42 | -7854)
+[09May2025 03:18:27.494] [Worker-Main-189/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (4080 | 42 | -7854)
+[09May2025 03:18:27.494] [Worker-Main-189/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (4075 | 42 | -7849)
+[09May2025 03:18:27.495] [Worker-Main-189/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (4075 | 42 | -7849)
+[09May2025 03:18:27.544] [Worker-Main-297/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (4081 | 47 | -7843)
+[09May2025 03:18:27.544] [Worker-Main-297/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_90 at (4081 | 47 | -7843)
+[09May2025 03:18:27.544] [Worker-Main-297/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (4087 | 42 | -7844)
+[09May2025 03:18:27.544] [Worker-Main-297/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (4087 | 42 | -7844)
+[09May2025 03:18:27.544] [Worker-Main-297/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/large_wall with rotation CLOCKWISE_90 at (4081 | 42 | -7837)
+[09May2025 03:18:27.544] [Worker-Main-297/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/large_wall with rotation CLOCKWISE_90 at (4081 | 42 | -7837)
+[09May2025 03:18:27.544] [Worker-Main-297/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (4075 | 42 | -7849)
+[09May2025 03:18:27.545] [Worker-Main-297/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_90 at (4075 | 42 | -7849)
+[09May2025 03:20:33.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 03:20:33.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 03:21:27.801] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/144052, l='ServerLevel[world]', x=3843.55, y=99.00, z=-7744.32] died, message: 'Farmer was slain by Zombie Villager'
+[09May2025 03:21:41.706] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/144314, l='ServerLevel[world]', x=3858.66, y=95.00, z=-7758.59] died, message: 'Villager was slain by Zombie Villager'
