@@ -3193,3 +3193,5 @@
 [09May2025 19:25:30.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of buenxs14) moved wrongly! 0.6687105705026672
 [09May2025 19:34:34.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Smash And Bash!]
 [09May2025 19:36:01.989] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[09May2025 20:25:46.881] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 lost connection: Disconnected
+[09May2025 20:25:46.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 left the game
