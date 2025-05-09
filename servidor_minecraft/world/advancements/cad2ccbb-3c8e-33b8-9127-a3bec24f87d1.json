@@ -3990,6 +3990,7 @@
       "biomeswevegone:jacaranda_jungle": "2025-04-24 00:25:18 +0000",
       "biomeswevegone:red_rock_valley": "2025-04-24 00:38:26 +0000",
       "biomeswevegone:firecracker_chaparral": "2025-04-23 23:20:00 +0000",
+      "biomeswevegone:canadian_shield": "2025-05-09 00:15:25 +0000",
       "biomeswevegone:lush_stacks": "2025-04-24 00:26:51 +0000",
       "biomeswevegone:coconino_meadow": "2025-05-01 18:24:08 +0000",
       "biomeswevegone:ironwood_gour": "2025-04-23 23:19:00 +0000",
@@ -10599,77 +10600,101 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
-      "log_spam_fixer": "2025-05-08 04:10:32 +0000"
+      "has_prismarine_shard": "2025-05-09 00:07:48 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "iceandfire:recipes/combat/tide_purple_helmet": {
     "criteria": {
-      "log_spam_fixer": "2025-05-08 04:10:32 +0000"
+      "has_item": "2025-05-09 00:10:01 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "iceandfire:recipes/combat/tide_purple_chestplate": {
     "criteria": {
-      "log_spam_fixer": "2025-05-08 04:10:32 +0000"
+      "has_item": "2025-05-09 00:10:01 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "iceandfire:recipes/building_blocks/ash": {
     "criteria": {
-      "log_spam_fixer": "2025-05-08 04:10:32 +0000"
+      "has_item": "2025-05-09 00:12:38 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
-      "log_spam_fixer": "2025-05-08 04:10:32 +0000"
+      "has_kelp": "2025-05-09 00:05:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
     "criteria": {
-      "log_spam_fixer": "2025-05-08 04:10:32 +0000"
+      "has_sea_serpent_scales_purple": "2025-05-09 00:10:01 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
-      "log_spam_fixer": "2025-05-08 04:10:32 +0000"
+      "has_kelp": "2025-05-09 00:05:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
-      "log_spam_fixer": "2025-05-08 04:10:32 +0000"
+      "has_kelp": "2025-05-09 00:05:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "iceandfire:recipes/combat/tide_purple_leggings": {
     "criteria": {
-      "log_spam_fixer": "2025-05-08 04:10:32 +0000"
+      "has_item": "2025-05-09 00:10:01 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
-      "log_spam_fixer": "2025-05-08 04:10:32 +0000"
+      "killed_fire_dragon": "2025-05-09 00:20:10 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "iceandfire:iceandfire/kill_siren": {
     "criteria": {
-      "log_spam_fixer": "2025-05-08 04:10:32 +0000"
+      "killed_fire_dragon": "2025-05-09 00:07:37 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
-      "log_spam_fixer": "2025-05-08 04:10:32 +0000"
+      "has_prismarine_shard": "2025-05-09 00:07:48 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-09 00:07:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_hippocampus": {
+    "criteria": {
+      "tame_rat": "2025-05-09 00:05:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-09 00:07:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_boots": {
+    "criteria": {
+      "has_item": "2025-05-09 00:10:01 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
