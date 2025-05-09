@@ -100,14 +100,18 @@
       "minecraft:stony_shore": "2025-04-23 22:17:00 +0000",
       "minecraft:snowy_plains": "2025-05-09 03:23:03 +0000",
       "minecraft:dripstone_caves": "2025-04-23 21:13:31 +0000",
+      "minecraft:snowy_taiga": "2025-05-09 18:37:27 +0000",
       "minecraft:grove": "2025-05-05 02:32:10 +0000",
       "minecraft:cold_ocean": "2025-04-23 23:02:07 +0000",
       "minecraft:forest": "2025-04-23 04:08:32 +0000",
       "minecraft:lush_caves": "2025-04-23 22:37:05 +0000",
+      "minecraft:frozen_ocean": "2025-05-09 18:20:18 +0000",
       "minecraft:desert": "2025-04-24 00:35:02 +0000",
+      "minecraft:deep_frozen_ocean": "2025-05-09 18:32:53 +0000",
       "minecraft:ocean": "2025-04-23 03:27:01 +0000",
       "minecraft:jungle": "2025-04-25 03:30:43 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-05 02:37:22 +0000",
+      "minecraft:snowy_beach": "2025-05-09 18:38:21 +0000",
       "minecraft:windswept_savanna": "2025-04-25 03:43:41 +0000",
       "minecraft:warm_ocean": "2025-04-24 20:48:04 +0000",
       "minecraft:flower_forest": "2025-05-01 04:58:09 +0000",
@@ -3990,6 +3994,7 @@
       "biomeswevegone:sakura_grove": "2025-05-09 00:57:12 +0000",
       "biomeswevegone:enchanted_tangle": "2025-04-24 00:22:21 +0000",
       "biomeswevegone:temperate_grove": "2025-04-23 23:09:11 +0000",
+      "biomeswevegone:zelkova_forest": "2025-05-09 19:08:02 +0000",
       "biomeswevegone:forgotten_forest": "2025-04-23 23:11:31 +0000",
       "biomeswevegone:white_mangrove_marshes": "2025-04-25 03:24:44 +0000",
       "biomeswevegone:jacaranda_jungle": "2025-04-24 00:25:18 +0000",
@@ -3999,6 +4004,7 @@
       "biomeswevegone:lush_stacks": "2025-04-24 00:26:51 +0000",
       "biomeswevegone:coconino_meadow": "2025-05-01 18:24:08 +0000",
       "biomeswevegone:maple_taiga": "2025-05-09 02:52:48 +0000",
+      "biomeswevegone:frosted_taiga": "2025-05-09 19:00:52 +0000",
       "biomeswevegone:ironwood_gour": "2025-04-23 23:19:00 +0000",
       "biomeswevegone:orchard": "2025-04-23 22:17:57 +0000",
       "biomeswevegone:amaranth_grassland": "2025-04-24 02:27:21 +0000",
@@ -4009,6 +4015,8 @@
       "biomeswevegone:aspen_boreal": "2025-04-23 22:20:05 +0000",
       "biomeswevegone:dacite_ridges": "2025-04-23 22:59:20 +0000",
       "biomeswevegone:shattered_glacier": "2025-05-09 03:16:52 +0000",
+      "biomeswevegone:frosted_coniferous_forest": "2025-05-09 18:35:24 +0000",
+      "biomeswevegone:dacite_shore": "2025-05-09 19:06:47 +0000",
       "biomeswevegone:skyrise_vale": "2025-05-02 20:58:03 +0000",
       "biomeswevegone:dead_sea": "2025-04-24 20:48:30 +0000",
       "biomeswevegone:allium_shrubland": "2025-04-23 04:09:25 +0000",
@@ -10719,6 +10727,150 @@
   "dungeons_arise:find_illager_windmill": {
     "criteria": {
       "location0": "2025-05-09 03:15:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-05-09 18:21:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2025-05-09 18:18:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-09 18:24:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2025-05-09 18:18:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2025-05-09 18:59:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
+    "criteria": {
+      "has_sea_serpent_scales_blue": "2025-05-09 18:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-05-09 18:50:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-05-09 18:18:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2025-05-09 18:59:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-09 18:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-05-09 18:51:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-05-09 18:24:56 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-05-09 18:46:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_boots": {
+    "criteria": {
+      "has_item": "2025-05-09 18:24:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2025-05-09 18:18:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/big_black_glazed_jar": {
+    "criteria": {
+      "has_black_terracotta": "2025-05-09 18:51:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-05-09 18:24:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-05-09 18:17:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2025-05-09 18:59:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/black_glazed_jar": {
+    "criteria": {
+      "has_black_terracotta": "2025-05-09 18:51:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-05-09 19:18:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-09 18:59:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2025-05-09 19:18:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2025-05-09 18:59:45 +0000"
     },
     "done": true
   },
