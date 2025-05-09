@@ -20564,3 +20564,34 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09May2025 03:31:38.363] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/151376, l='ServerLevel[world]', x=2902.93, y=94.00, z=-8286.15] died, message: 'Toolsmith was slain by Zombie'
 [09May2025 03:31:50.055] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/151490, l='ServerLevel[world]', x=2904.00, y=94.00, z=-8285.72] died, message: 'Villager was slain by Zombie'
 [09May2025 03:32:06.658] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/151491, l='ServerLevel[world]', x=2899.53, y=94.00, z=-8285.33] died, message: 'Nitwit was slain by Zombie'
+[09May2025 03:34:08.253] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/151486, l='ServerLevel[world]', x=2891.80, y=89.50, z=-8277.30] died, message: 'Villager suffocated in a wall'
+[09May2025 03:35:33.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 03:35:33.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 03:40:33.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 03:40:33.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 03:45:33.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 03:45:33.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 03:46:19.119] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/151599, l='ServerLevel[world]', x=2853.63, y=67.00, z=-8306.85] was struck by lightning LightningBolt['Lightning Bolt'/156984, l='ServerLevel[world]', x=2853.50, y=67.00, z=-8306.50].
+[09May2025 03:50:04.420] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 03:50:05.626] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 03:50:05.666] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 03:50:05.728] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 03:50:05.821] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09May2025 03:50:07.264] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 03:50:07.329] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 03:50:07.516] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 03:50:07.567] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 03:50:07.616] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 03:50:07.666] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 03:50:07.718] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 03:50:07.768] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 03:50:12.623] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 03:50:12.669] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 03:50:12.724] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 03:50:13.215] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 03:50:13.271] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 03:50:13.317] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[09May2025 03:50:33.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 03:50:33.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 03:51:04.005] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 lost connection: Disconnected
+[09May2025 03:51:04.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 left the game

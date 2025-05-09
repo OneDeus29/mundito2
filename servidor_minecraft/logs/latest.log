@@ -262,3 +262,7 @@
 [09May2025 03:31:38.363] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/151376, l='ServerLevel[world]', x=2902.93, y=94.00, z=-8286.15] died, message: 'Toolsmith was slain by Zombie'
 [09May2025 03:31:50.055] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/151490, l='ServerLevel[world]', x=2904.00, y=94.00, z=-8285.72] died, message: 'Villager was slain by Zombie'
 [09May2025 03:32:06.658] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/151491, l='ServerLevel[world]', x=2899.53, y=94.00, z=-8285.33] died, message: 'Nitwit was slain by Zombie'
+[09May2025 03:34:08.253] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/151486, l='ServerLevel[world]', x=2891.80, y=89.50, z=-8277.30] died, message: 'Villager suffocated in a wall'
+[09May2025 03:46:19.119] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/151599, l='ServerLevel[world]', x=2853.63, y=67.00, z=-8306.85] was struck by lightning LightningBolt['Lightning Bolt'/156984, l='ServerLevel[world]', x=2853.50, y=67.00, z=-8306.50].
+[09May2025 03:51:04.005] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 lost connection: Disconnected
+[09May2025 03:51:04.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 left the game
