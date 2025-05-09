@@ -259,3 +259,6 @@
 [09May2025 03:15:49.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [All Along The Watchtower]
 [09May2025 03:21:27.801] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/144052, l='ServerLevel[world]', x=3843.55, y=99.00, z=-7744.32] died, message: 'Farmer was slain by Zombie Villager'
 [09May2025 03:21:41.706] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/144314, l='ServerLevel[world]', x=3858.66, y=95.00, z=-7758.59] died, message: 'Villager was slain by Zombie Villager'
+[09May2025 03:31:38.363] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/151376, l='ServerLevel[world]', x=2902.93, y=94.00, z=-8286.15] died, message: 'Toolsmith was slain by Zombie'
+[09May2025 03:31:50.055] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/151490, l='ServerLevel[world]', x=2904.00, y=94.00, z=-8285.72] died, message: 'Villager was slain by Zombie'
+[09May2025 03:32:06.658] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/151491, l='ServerLevel[world]', x=2899.53, y=94.00, z=-8285.33] died, message: 'Nitwit was slain by Zombie'
