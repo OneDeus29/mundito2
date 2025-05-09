@@ -26,3 +26,7 @@
 [09May2025 00:46:20.615] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/65859, l='ServerLevel[world]', x=2418.50, y=88.00, z=-6212.93] died, message: 'Scribe was slain by Zombie'
 [09May2025 01:03:04.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF lost connection: Disconnected
 [09May2025 01:03:04.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF left the game
+[09May2025 01:10:22.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Itz_Jusebg_FpF[/127.26.125.93:34035] logged in with entity id 77352 at (2603.327788196059, -58.0, -7785.427215356352)
+[09May2025 01:10:22.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF joined the game
+[09May2025 01:13:08.165] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF lost connection: Timed out
+[09May2025 01:13:08.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF left the game
