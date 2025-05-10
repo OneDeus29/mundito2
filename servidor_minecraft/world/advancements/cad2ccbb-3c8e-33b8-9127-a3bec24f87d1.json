@@ -3986,6 +3986,7 @@
     "criteria": {
       "biomeswevegone:atacama_outback": "2025-04-24 00:23:16 +0000",
       "biomeswevegone:redwood_thicket": "2025-04-30 23:05:38 +0000",
+      "biomeswevegone:cika_woods": "2025-05-10 04:39:40 +0000",
       "biomeswevegone:araucaria_savanna": "2025-04-23 23:19:59 +0000",
       "biomeswevegone:windswept_desert": "2025-04-24 00:35:55 +0000",
       "biomeswevegone:crag_gardens": "2025-04-24 00:23:38 +0000",
@@ -10950,6 +10951,138 @@
   "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine_brick": "2025-05-10 01:16:03 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-05-10 05:01:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-05-10 05:01:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/cika_wood": {
+    "criteria": {
+      "has_log": "2025-05-10 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-05-10 04:41:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-05-10 05:01:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-05-10 05:01:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-05-10 05:01:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-05-10 05:01:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-05-10 05:01:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-05-10 05:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-05-10 05:07:05 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-05-10 05:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-05-10 04:40:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-05-10 05:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-05-10 05:07:06 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-05-10 05:01:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/mangrove_desk_drawer": {
+    "criteria": {
+      "has_mangrove_slab": "2025-05-10 05:01:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/cika_planks": {
+    "criteria": {
+      "has_log": "2025-05-10 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-05-10 05:01:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-05-10 05:01:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/vangrove_banister": {
+    "criteria": {
+      "has_item": "2025-05-10 05:01:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_log": "2025-05-10 04:41:45 +0000"
     },
     "done": true
   },
