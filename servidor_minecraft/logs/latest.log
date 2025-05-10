@@ -266,3 +266,4 @@
 [10May2025 02:16:27.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> no entendi
 [10May2025 02:19:07.302] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teffqyy lost connection: Disconnected
 [10May2025 02:19:07.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy left the game
+[10May2025 02:29:15.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2588ms or 51 ticks behind
