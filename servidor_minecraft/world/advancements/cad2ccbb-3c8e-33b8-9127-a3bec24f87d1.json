@@ -10966,6 +10966,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_mangrove_stool": {
     "criteria": {
       "has_mangrove_slab": "2025-05-10 05:01:44 +0000"
@@ -10981,6 +10987,12 @@
   "biomeswevegone:recipes/building_blocks/maple_wood": {
     "criteria": {
       "has_log": "2025-05-10 04:41:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-10 05:47:17 +0000"
     },
     "done": true
   },
@@ -11002,9 +11014,39 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-10 05:44:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/yellow_upholstered_mangrove_stool": {
     "criteria": {
       "has_mangrove_slab": "2025-05-10 05:01:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-10 05:47:17 +0000"
     },
     "done": true
   },
@@ -11014,9 +11056,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/mangrove_table": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/blue_upholstered_mangrove_stool": {
     "criteria": {
       "has_mangrove_slab": "2025-05-10 05:01:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/mangrove_desk": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-05-10 05:44:34 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-10 05:47:17 +0000"
     },
     "done": true
   },
@@ -11038,6 +11146,48 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-10 05:44:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/pink_upholstered_mangrove_stool": {
     "criteria": {
       "has_mangrove_slab": "2025-05-10 05:01:44 +0000"
@@ -11056,15 +11206,63 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/lime_mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-10 05:44:59 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/green_upholstered_mangrove_stool": {
     "criteria": {
       "has_mangrove_slab": "2025-05-10 05:01:44 +0000"
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/mangrove_desk_drawer": {
     "criteria": {
       "has_mangrove_slab": "2025-05-10 05:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-05-10 05:44:34 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-10 05:44:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2025-05-10 05:47:17 +0000"
     },
     "done": true
   },
@@ -11080,9 +11278,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-05-10 05:44:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_upholstered_mangrove_stool": {
     "criteria": {
       "has_mangrove_slab": "2025-05-10 05:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2025-05-10 05:47:17 +0000"
     },
     "done": true
   },
@@ -11092,9 +11320,51 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-10 05:44:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-05-10 05:47:17 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/maple_planks": {
     "criteria": {
       "has_log": "2025-05-10 04:41:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-05-10 05:44:34 +0000"
     },
     "done": true
   },
