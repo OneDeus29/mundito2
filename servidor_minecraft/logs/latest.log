@@ -348,3 +348,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10May2025 03:48:45.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3143, y=78, z=258} BlockPos{x=3143, y=78, z=259}
 [10May2025 03:49:28.763] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3192, y=66, z=272} BlockPos{x=3191, y=65, z=272}
 [10May2025 03:49:28.816] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3192, y=66, z=272} BlockPos{x=3191, y=65, z=272}
+[10May2025 03:51:50.851] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/1410, l='ServerLevel[world]', x=3292.69, y=50.39, z=326.73] died: Desert Blaze was shot by buenxs14
+[10May2025 03:52:05.510] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/1409, l='ServerLevel[world]', x=3291.73, y=47.50, z=332.14] died: Desert Blaze was shot by buenxs14
+[10May2025 03:52:06.943] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/1407, l='ServerLevel[world]', x=3288.93, y=47.00, z=334.14] died: Desert Blaze was shot by buenxs14
+[10May2025 03:52:27.163] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/1480, l='ServerLevel[world]', x=3291.99, y=50.32, z=318.57] died: Desert Blaze was slain by buenxs14
+[10May2025 03:57:15.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 moved too quickly! -2.204452320377186,-1.0800000131130219,9.785422899665718
+[10May2025 03:57:15.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6037ms or 120 ticks behind
