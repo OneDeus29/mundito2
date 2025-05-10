@@ -11374,6 +11374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-10 16:34:14 +0000"
+    },
+    "done": true
+  },
   "endrem:main/wither_eye": {
     "criteria": {
       "wither_eye": "2025-05-10 15:48:58 +0000"
@@ -11386,9 +11392,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-10 16:34:14 +0000"
+    },
+    "done": true
+  },
   "endrem:main/lost_eye": {
     "criteria": {
       "lost_eye": "2025-05-10 15:47:20 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/stripped_dark_oak_post": {
+    "criteria": {
+      "has_item": "2025-05-10 16:34:14 +0000"
     },
     "done": true
   },
