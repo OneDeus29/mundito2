@@ -354,3 +354,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10May2025 03:52:27.163] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/1480, l='ServerLevel[world]', x=3291.99, y=50.32, z=318.57] died: Desert Blaze was slain by buenxs14
 [10May2025 03:57:15.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 moved too quickly! -2.204452320377186,-1.0800000131130219,9.785422899665718
 [10May2025 03:57:15.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6037ms or 120 ticks behind
+[10May2025 04:35:48.991] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8161, l='ServerLevel[world]', x=3134.68, y=62.15, z=-7684.32] died, message: 'Villager was slain by Crocodile'
