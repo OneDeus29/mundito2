@@ -267,3 +267,10 @@
 [10May2025 02:19:07.302] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teffqyy lost connection: Disconnected
 [10May2025 02:19:07.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy left the game
 [10May2025 02:29:15.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2588ms or 51 ticks behind
+[10May2025 02:55:04.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF moved too quickly! -0.1777329380130368,-11.314849834016997,0.005048349029095789
+[10May2025 02:55:05.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF was kicked for floating too long!
+[10May2025 02:55:05.544] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF lost connection: Disconnected
+[10May2025 02:55:05.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF left the game
+[10May2025 02:55:05.684] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10May2025 02:55:20.412] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Itz_Jusebg_FpF[/127.26.125.93:46473] logged in with entity id 147932 at (-868.6101710739135, 103.09407948990558, 286.5003388174792)
+[10May2025 02:55:20.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF joined the game
