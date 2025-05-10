@@ -876,3 +876,6 @@ Missing minecraft:entity_type:
 [10May2025 17:21:10.014] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Itz_Jusebg_FpF[/127.26.125.93:41845] logged in with entity id 50527 at (-1.223070462128136, 238.4134554614341, 163.76595167057383)
 [10May2025 17:21:10.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF joined the game
 [10May2025 17:32:32.680] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/55321, l='ServerLevel[world]', x=32.42, y=-20.00, z=-904.70] died: Toxic Slime was killed
+[10May2025 18:11:46.807] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/78068, l='ServerLevel[world]', x=55.30, y=33.88, z=-950.04] died: Toxic Slime was shot by Itz_Jusebg_FpF
+[10May2025 18:15:41.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 lost connection: Disconnected
+[10May2025 18:15:41.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 left the game
