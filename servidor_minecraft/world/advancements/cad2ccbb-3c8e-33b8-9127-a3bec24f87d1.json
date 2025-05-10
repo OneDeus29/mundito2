@@ -49,9 +49,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-05-10 00:28:14 +0000",
       "log_spam_fixer": "2025-04-23 03:26:32 +0000"
     },
-    "done": false
+    "done": true
   },
   "cataclysm:root": {
     "criteria": {
