@@ -10730,81 +10730,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
-      "log_spam_fixer": "2025-05-09 20:25:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-09 20:25:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-09 20:25:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-09 20:25:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-09 20:25:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-09 20:25:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-09 20:25:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-09 20:25:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-09 20:25:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-09 20:25:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-09 20:25:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-09 20:25:24 +0000"
-    },
-    "done": false
-  },
-  "alexsmobs:alexsmobs/orcas_might": {
-    "criteria": {
-      "all_effects": "2025-05-09 18:21:11 +0000"
+      "has_silver_nugget": "2025-05-09 18:17:42 +0000"
     },
     "done": true
   },
@@ -10814,33 +10742,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_blue_chestplate": {
-    "criteria": {
-      "has_item": "2025-05-09 18:24:56 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_white_helmet": {
     "criteria": {
       "has_item": "2025-05-09 18:18:21 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_red_leggings": {
-    "criteria": {
-      "has_item": "2025-05-09 18:59:45 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
-    "criteria": {
-      "has_sea_serpent_scales_blue": "2025-05-09 18:24:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
-    "criteria": {
-      "has_blue_orchid": "2025-05-09 18:50:03 +0000"
     },
     "done": true
   },
@@ -10850,25 +10754,49 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_red_boots": {
-    "criteria": {
-      "has_item": "2025-05-09 18:59:45 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_white_chestplate": {
     "criteria": {
       "has_item": "2025-05-09 18:18:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_glazed_terracotta": {
+  "iceandfire:recipes/combat/armor_white_boots": {
     "criteria": {
-      "has_black_terracotta": "2025-05-09 18:51:29 +0000"
+      "has_item": "2025-05-09 18:18:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-05-09 18:21:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-09 18:24:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
+    "criteria": {
+      "has_sea_serpent_scales_blue": "2025-05-09 18:24:56 +0000"
     },
     "done": true
   },
   "iceandfire:recipes/combat/tide_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-05-09 18:24:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_boots": {
+    "criteria": {
+      "has_item": "2025-05-09 18:24:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_helmet": {
     "criteria": {
       "has_item": "2025-05-09 18:24:56 +0000"
     },
@@ -10880,15 +10808,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_blue_boots": {
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
-      "has_item": "2025-05-09 18:24:56 +0000"
+      "has_blue_orchid": "2025-05-09 18:50:03 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_white_boots": {
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
     "criteria": {
-      "has_item": "2025-05-09 18:18:21 +0000"
+      "has_black_terracotta": "2025-05-09 18:51:29 +0000"
     },
     "done": true
   },
@@ -10898,15 +10826,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_blue_helmet": {
+  "valhelsia_structures:recipes/decorations/black_glazed_jar": {
     "criteria": {
-      "has_item": "2025-05-09 18:24:56 +0000"
+      "has_black_terracotta": "2025-05-09 18:51:29 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+  "iceandfire:recipes/combat/tide_red_leggings": {
     "criteria": {
-      "has_silver_nugget": "2025-05-09 18:17:42 +0000"
+      "has_item": "2025-05-09 18:59:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2025-05-09 18:59:45 +0000"
     },
     "done": true
   },
@@ -10916,9 +10850,15 @@
     },
     "done": true
   },
-  "valhelsia_structures:recipes/decorations/black_glazed_jar": {
+  "iceandfire:recipes/combat/tide_red_chestplate": {
     "criteria": {
-      "has_black_terracotta": "2025-05-09 18:51:29 +0000"
+      "has_item": "2025-05-09 18:59:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2025-05-09 18:59:45 +0000"
     },
     "done": true
   },
@@ -10928,21 +10868,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_red_chestplate": {
-    "criteria": {
-      "has_item": "2025-05-09 18:59:45 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/dread_torch": {
     "criteria": {
       "has_item": "2025-05-09 19:18:00 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_red_helmet": {
-    "criteria": {
-      "has_item": "2025-05-09 18:59:45 +0000"
     },
     "done": true
   },
