@@ -870,3 +870,9 @@ Missing minecraft:entity_type:
 [10May2025 17:14:12.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy has fallen
 [10May2025 17:14:42.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy tried to swim in lava
 [10May2025 17:17:40.679] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/48432, l='ServerLevel[world]', x=1.77, y=-20.00, z=-901.98] died: Toxic Slime was killed
+[10May2025 17:20:59.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF was kicked for floating too long!
+[10May2025 17:20:59.193] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF lost connection: Flying is not enabled on this server
+[10May2025 17:20:59.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF left the game
+[10May2025 17:21:10.014] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Itz_Jusebg_FpF[/127.26.125.93:41845] logged in with entity id 50527 at (-1.223070462128136, 238.4134554614341, 163.76595167057383)
+[10May2025 17:21:10.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF joined the game
+[10May2025 17:32:32.680] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/55321, l='ServerLevel[world]', x=32.42, y=-20.00, z=-904.70] died: Toxic Slime was killed
