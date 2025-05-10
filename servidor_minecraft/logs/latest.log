@@ -840,3 +840,7 @@ Missing minecraft:entity_type:
 [10May2025 16:36:51.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teffqyy moved too quickly! -9.480339300147762,-3.0,-1.8304697501180272
 [10May2025 16:40:18.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy has fallen
 [10May2025 16:40:48.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy was slain by Phantom
+[10May2025 16:49:44.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF moved too quickly! 0.39000937043478956,-10.090356023932138,-1.772216145162247
+[10May2025 16:50:14.682] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/30667, l='ServerLevel[world]', x=18.03, y=-20.00, z=-1027.62] died: Toxic Slime was killed
+[10May2025 16:51:20.738] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/31158, l='ServerLevel[world]', x=-18.84, y=-20.00, z=-959.13] died: Toxic Slime was killed
+[10May2025 16:57:32.944] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone

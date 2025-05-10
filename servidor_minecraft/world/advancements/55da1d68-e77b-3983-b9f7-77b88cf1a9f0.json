@@ -12743,5 +12743,59 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/purple_birch_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-05-10 16:55:56 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_oak_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-05-10 16:55:56 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_warped_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-05-10 16:55:56 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_crimson_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-05-10 16:55:56 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_cherry_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-05-10 16:55:56 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_acacia_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-05-10 16:55:56 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_dark_oak_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-05-10 16:55:56 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_jungle_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-05-10 16:55:56 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_mangrove_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-05-10 16:55:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

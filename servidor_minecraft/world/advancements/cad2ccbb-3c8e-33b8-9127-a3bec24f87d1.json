@@ -11374,15 +11374,45 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/purple_birch_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-05-10 16:55:53 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_oak_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-05-10 16:55:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2025-05-10 16:34:14 +0000"
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/purple_warped_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-05-10 16:55:53 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_crimson_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-05-10 16:55:53 +0000"
+    },
+    "done": true
+  },
   "endrem:main/wither_eye": {
     "criteria": {
       "wither_eye": "2025-05-10 15:48:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_cherry_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-05-10 16:55:53 +0000"
     },
     "done": true
   },
@@ -11398,6 +11428,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/purple_acacia_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-05-10 16:55:53 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_dark_oak_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-05-10 16:55:53 +0000"
+    },
+    "done": true
+  },
   "endrem:main/lost_eye": {
     "criteria": {
       "lost_eye": "2025-05-10 15:47:20 +0000"
@@ -11407,6 +11449,24 @@
   "valhelsia_structures:recipes/building_blocks/stripped_dark_oak_post": {
     "criteria": {
       "has_item": "2025-05-10 16:34:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_spruce_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-05-10 16:55:53 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_jungle_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-05-10 16:55:53 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_mangrove_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-05-10 16:55:53 +0000"
     },
     "done": true
   },
