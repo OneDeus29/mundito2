@@ -817,3 +817,7 @@ Missing minecraft:entity_type:
 [10May2025 15:43:53.885] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: buenxs14[/127.3.199.38:34743] logged in with entity id 575 at (-223.39469691040006, 159.0, -77.63899035484329)
 [10May2025 15:43:53.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 joined the game
 [10May2025 15:44:19.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 moved too quickly! -1.3390335034043233,-10.943605113888268,-0.11650111480413727
+[10May2025 15:47:20.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [Need A Map?]
+[10May2025 15:47:21.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [Fortune Seeker]
+[10May2025 15:47:44.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [Welcome To The Jungle]
+[10May2025 15:48:58.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [Wither You Want It Or Not]
